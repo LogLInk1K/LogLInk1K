@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello,World. 👋
 
+![:name](https://count.getloli.com/@:name)
 
 [![Github Stats](https://readme-stats-seven-flax.vercel.app/api?username=LogLInk1K&show_icons=true&count_private=true)](https://github.com/LogLInk1K)
 [![Top Langs](https://readme-stats-seven-flax.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/LogLInk1K)
