@@ -1,7 +1,11 @@
-## Hi there 👋
+### Welcome 👋
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=LogLInk1K&show_icons=true)](https://github.com/Pzqqt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LogLInk1K&layout=compact)](https://github.com/Pzqqt)
 
 <!--
-**LogLInk1K/LogLInk1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pzqqt/Pzqqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
