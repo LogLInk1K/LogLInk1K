@@ -1,21 +1,8 @@
-## Hello,World. 👋
-
-![:name](https://count.getloli.com/@:name?theme=rule34)
-
 [![Github Stats](https://readme-stats-seven-flax.vercel.app/api?username=LogLInk1K&show_icons=true&count_private=true)](https://github.com/LogLInk1K)
 [![Top Langs](https://readme-stats-seven-flax.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/LogLInk1K)
- 
- <!--
- **LogLInk1K/LogLInk1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
- Here are some ideas to get you started:
- 
- - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
- -->
+
+## Hello,World.
+
+- I enjoy coding , and thinking through these things.
+- I have basic knowledge of Java , Python.
+- Just a hobbyist.
