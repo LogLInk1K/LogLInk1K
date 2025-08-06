@@ -3,4 +3,5 @@
 ## Hello,World.
 
 - I enjoy coding and thinking.
-- Just a hobbyist.
+- I've been a script kiddie since I was eleven,
+- and I still am, unchanged.
