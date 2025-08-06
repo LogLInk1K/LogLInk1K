@@ -3,5 +3,4 @@
 ## Hello,World.
 
 - I enjoy coding and thinking.
-- I have basic knowledge of Java.
 - Just a hobbyist.
