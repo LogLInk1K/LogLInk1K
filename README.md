@@ -2,6 +2,6 @@
 
 ## Hello,World.
 
-- I enjoy coding , 和 thinking through these things.
+- I enjoy coding , and thinking through these things.
 - I have basic knowledge of Java , Python.
 - Just a hobbyist.
