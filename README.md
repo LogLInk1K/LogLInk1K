@@ -4,4 +4,3 @@
 
 - I've been a script kiddie since I was eleven.
 - And I still am , just like back then.
-- Do you enjoy coding right now?
