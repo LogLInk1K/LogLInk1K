@@ -2,6 +2,5 @@
 
 ## Hello,World.
 
-- I enjoy coding and thinking.
-- I've been a script kiddie since I was eleven,
-- and I still am, unchanged.
+- I've been a script kiddie since I was eleven.
+- And I still am, unchanged.
