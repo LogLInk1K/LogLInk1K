@@ -1,10 +1,7 @@
-<a href="https://github.com/LogLInk1K">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats.1k.ink/api?username=LogLInk1K&show_icons=true&count_private=true&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-stats.1k.ink/api?username=LogLInk1K&show_icons=true&count_private=true&theme=default">
-    <img alt="LogLInk1K's Github Stats" src="https://readme-stats.1k.ink/api?username=LogLInk1K&show_icons=true&count_private=true&theme=default">
-  </picture>
-</a>
+[
+  ![Stats-Light](https://readme-stats.1k.ink/api?username=LogLInk1K&show_icons=true&theme=default#gh-light-mode-only)
+  ![Stats-Dark](https://readme-stats.1k.ink/api?username=LogLInk1K&show_icons=true&theme=dark#gh-dark-mode-only)
+](https://github.com/LogLInk1K)
 
 ## Hello,World.
 
